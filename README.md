@@ -1,17 +1,25 @@
 # Pixabay Image Gallery - React & Tailwind CSS 
 
-Simple gallery with images from the pixabay API. Tailwind css is built into workflow with postcss and autoprefixer.
+# image gallery
 
-## Usage
-Add your Pixabay API key to .env - https://pixabay.com/api/docs/
+It is the code of image gallery Project...
 
-```
-# Install dependencies
-npm install
+The site has deployed here: [image gallery- tailwind](https://tailwind-assignment.web.app/).
 
-# Watch CSS & run server on :3000
-npm start
 
-# Build CSS and assets
-npm run build
+## Features
+Features of this project are:
+1. One can seach any image
+2. they cans see their preffered image
+
+
+
+
+# To Content with developer:
+Email: tasnim047sultana@gmail.com
+
+
+# assignment-tailwind-TasnimJahan
+
+
 ```# assignment-tailwind
